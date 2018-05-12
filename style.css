@@ -1,0 +1,106 @@
+.image {
+	max-width:50%;
+	height:auto;
+	float: right;
+	vertical-align: top;
+	border-style: solid;
+}
+
+.home_text {
+	color: black;
+	text-align: left;
+	font-family: "Courier";
+	font-size: 7vw;
+	vertical-align: middle;
+
+}
+
+body {
+	background-color: white;
+	background-image: url("paper.png");
+}
+
+button {
+	background-color: black;
+	color: white;
+	font-size: 4vw;
+	border: none;
+	text-align: center;
+	display: inline-block;
+	border-radius: 8px;
+	transition-duration: 0.6s;
+	padding: 15px 20px;
+	float: left;
+	cursor: pointer;
+
+}
+
+button:hover{
+	background-color: white;
+	color: black;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+p {
+	color: black;
+	font-family: "Courier";
+	font-size: 3vw;
+	text-align: center;
+}
+
+h1 {
+    color: black;
+	text-align: center;
+	font-family: "Courier";
+	font-size: 4vw;
+
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+	float: left;
+
+}
+
+li a {
+	display: block;
+	text-align: center;
+	color: white;
+	background-color: black;
+	cursor: pointer;
+	font-family: "Courier";
+	font-size: 2.5vw;
+	text-decoration: none;
+	width: 19.5vw;
+
+}
+
+
+li a:hover{
+	background-color: white;
+	color: black;
+}
+
+.active {
+	background-color: #666666;
+	color: black;
+}
+
+.pic {
+	float: left;
+	max-width: 30%;
+}
+
+.contact_info {
+	text-align: left;
+	color: black;
+	font-family: "Courier";
+	font-size: 3vw;
+}
