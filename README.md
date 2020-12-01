@@ -1,1 +1,1 @@
-To view, go to petalsonwind.github.io or petalsonwind.github.io/home.html
+To view, go to [petalsonwind.github.io](https://petalsonwind.github.io)
